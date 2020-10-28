@@ -1,0 +1,36 @@
+{
+    "imagesReferenceName": [
+        "Facebook",
+        "Instagram",
+        "Twitter",
+        "Quora",
+        "Google",
+        "Periscope"
+    ],
+    "values": [
+        {
+            "key": "10/04/2019",
+            "value": 8.76,
+            "displayValue": "8.76 Hrs",
+            "fill": "#df6363"
+        },
+        {
+            "key": "10/05/2019",
+            "value": 8.62,
+            "displayValue": "8.62 Hrs",
+            "fill": "#df6363"
+        },
+        {
+            "key": "10/06/2019",
+            "value": 8.26,
+            "displayValue": "8.26 Hrs",
+            "fill": "#df6363"
+        },
+        {
+            "key": "10/07/2019",
+            "value": 19.32,
+            "displayValue": "19.32 Hrs",
+            "fill": "#7db868"
+        }
+    ]
+}

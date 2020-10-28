@@ -1,0 +1,212 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+.hamburger{
+  width: 25px;
+  height: 100% !important;
+  float: right;
+  margin-top: 10px;
+  color: white;
+  background: white !important;
+}
+
+.hamburger span{
+ 
+  background: white !important;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: black !important;
+  text-decoration: none !important;
+}
+
+.slick-prev {
+  background: #cccccc !important;
+}
+
+.slick-next {
+  background: #cccccc !important;
+}
+
+.loogo{
+  /* resizeMode: "center"; */
+            
+            /* position: 'absolute'; */
+            /* top: 20;
+            right: 1150; */
+            /* alignItems: 'top'; */
+            height: 50px;
+            width: 50px;
+}
+
+.MuiFormControl-root{
+  background-color:white;
+
+} 
+/* 
+.logoCol{
+  background-color:#57504d;
+  
+}
+.menuCol{
+  background-color:#85060e;
+  
+} */
+body{
+
+  background-color: rgb(218, 218, 218);
+}
+
+.carouselContainer{
+  padding: 25px;
+  
+}
+.carouselRow{
+  margin-top: 7px;
+}
+
+.alice-carousel__dots {
+  margin: 0px !important;
+  padding: 0px;
+}
+
+.titleRow{
+  padding: 10px;
+  background-color:#2a2727;
+  
+}
+
+.menuCol{
+  /* float: right; */
+  text-align: right;
+}
+
+.liquidGaugeRow{
+  margin-top: 10px;
+}
+
+.liquidGaugeChartCol{
+  text-align: center;
+  padding: 2px;
+}
+
+.liquidGaugeCardTitle{
+  text-align: left;
+  /* padding: 5px; */
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+
+.liquidGaugeCard{
+  padding-bottom: 10px;
+  
+}
+
+.carouselCol{
+  padding: 2px;
+}
+
+.comboBoxCol{
+  margin-top: 5px;
+  padding-right: 2px;
+  padding-left: 2px;
+  height: 40px;
+  
+}
+
+.progressBarCol{
+  padding-right: 2px;
+  padding-left: 2px;
+}
+
+.progressBar{
+  width: 95%;
+  height: 70%;
+}
+
+@media (max-width: 320px) and (max-width: 570px) {
+  /* .totalAffected{
+    padding-bottom: 22px;
+  } */
+  .totalDeaths{
+    padding-bottom: 22px;
+  }
+}
+
+/* .MuiInputLabel-outlined{
+  transform: translate(10px, 13px) scale(1) !important;
+} */
+
+.MuiFormControl-fullWidth{
+  height: 100% !important;
+}
+
+.MuiAutocomplete-root{
+  height: 100% !important;
+}
+
+.MuiAutocomplete-inputRoot{
+  height: 100% !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
